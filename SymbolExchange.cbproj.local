@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2026.01.30 23:27:36.965,=C:\Users\PC\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2026.01.30 23:27:37.140,=C:\Users\PC\Documents\Embarcadero\Studio\Projects\File1.c</Transaction>
+    <Transaction>2026.01.30 23:30:34.001,D:\Projects\Programming\C\BDS\Console\Algorithms\SymbolExchange\SymbolExchangePCH1.h=C:\Users\PC\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2026.01.30 23:30:34.017,D:\Projects\Programming\C\BDS\Console\Algorithms\SymbolExchange\File1.c=C:\Users\PC\Documents\Embarcadero\Studio\Projects\File1.c</Transaction>
+    <Transaction>2026.01.30 23:30:34.033,D:\Projects\Programming\C\BDS\Console\Algorithms\SymbolExchange\SymbolExchange.cbproj=C:\Users\PC\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>2026.01.30 23:30:43.598,D:\Projects\Programming\C\BDS\Console\Algorithms\SymbolExchange\SymbolExchange.c=D:\Projects\Programming\C\BDS\Console\Algorithms\SymbolExchange\File1.c</Transaction>
+    <Transaction>2026.01.30 23:30:47.447,D:\Projects\Programming\C\BDS\Console\Algorithms\SymbolExchange\SymbolExchange.cbproj=D:\Projects\Programming\C\BDS\Console\Algorithms\SymbolExchange\SymbolExchange.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
